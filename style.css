@@ -33,6 +33,19 @@ main {
     padding: 20px;
 }
 
+
+/* Stile per i link */
+a {
+    color: #007bff; /* Cambia il colore del link a tuo piacimento */
+    text-decoration: none; /* Rimuove la sottolineatura dei link */
+}
+
+/* Stile per i link al passaggio del mouse (hover) */
+a:hover {
+    text-decoration: underline; /* Sottolinea il link al passaggio del mouse */
+}
+
+
 footer {
     background-color: #333;
     color: white;
